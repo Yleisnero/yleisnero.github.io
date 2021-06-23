@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #2e3141;
+			background-color: #2d4159;
 			color: #c8ece9;
 		}
 
@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #272727;
 			color: #d3d4e4;
 		}
 
@@ -3891,7 +3891,7 @@ input, select, textarea {
 	}
 
 		#footer .icons {
-			font-size: 1.25em;
+			font-size: 2.25em;
 		}
 
 			#footer .icons a {
@@ -3904,8 +3904,8 @@ input, select, textarea {
 
 		#footer .copyright {
 			color: rgba(255, 255, 255, 0.5);
-			font-size: 0.8em;
-			letter-spacing: 0.225em;
+			font-size: 0.6em;
+			letter-spacing: 0.2em;
 			list-style: none;
 			padding: 0;
 			text-transform: uppercase;
